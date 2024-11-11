@@ -1,5 +1,3 @@
-# GS-FIAP
-
 # Global Solution | Green Energy
 
 ![image](https://github.com/user-attachments/assets/8bc3699a-d45f-4b70-8acf-47b630c79301)
