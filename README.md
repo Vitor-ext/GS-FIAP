@@ -2,6 +2,9 @@
 
 # Global Solution | Green Energy
 
+![image](https://github.com/user-attachments/assets/a1ec752e-a429-429b-a696-c31eed2f5380)
+
+
 **Objetivo:** Desenvolver uma página web para informar os clientes sobre os maiores consumidores de energia, explicando o conceito de consumo consciente e apresentando formas práticas de economizar energia no dia a dia. Além disso, a página deve incluir uma seção dedicada às novas ferramentas e tecnologias voltadas para Green IT e eficiência energética, destacando soluções inovadoras que contribuem para a sustentabilidade e redução do impacto ambiental.
 
 
@@ -14,7 +17,6 @@
 
 1. **Configuração Inicial:**
     * Criar repositório no GitHub.
-    * Enviar os links para o professor.****
 
 2. **Desenvolvimento do Website:** 
     * **Website:** Codificar o website com HTML e CSS. 
